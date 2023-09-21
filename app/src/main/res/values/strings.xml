@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DriversDirectory</string>
+    <string name="drivers_information_dialog_title">Information</string>
+    <string name="drivers_information_dialog_close">Close</string>
+    <string name="routes_name_format">Name: %1$s</string>
+    <string name="routes_type_format">Type: %1$s</string>
+    <string name="routes_id_format">Id: %1$s</string>
+    <string name="connection_error">Connection Error.</string>
+    <string name="server_error">Server Error</string>
+    <string name="drivers_directory_top_bar_title">Drivers Directory</string>
+</resources>
